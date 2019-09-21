@@ -1,0 +1,19 @@
+﻿  AES.cpp
+E:\VS\AES\AES\AES.cpp(537,12): warning C4244:  аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\VS\AES\AES\AES.cpp(580,28): warning C4244:  аргумент: преобразование "float" в "int", возможна потеря данных
+E:\VS\AES\AES\AES.cpp(598,56): warning C4244:  аргумент: преобразование "float" в "int", возможна потеря данных
+E:\VS\AES\AES\AES.cpp(602,56): warning C4244:  аргумент: преобразование "float" в "int", возможна потеря данных
+E:\VS\AES\AES\AES.cpp(606,56): warning C4244:  аргумент: преобразование "float" в "int", возможна потеря данных
+E:\VS\AES\AES\AES.cpp(610,56): warning C4244:  аргумент: преобразование "float" в "int", возможна потеря данных
+E:\VS\AES\AES\AES.cpp(615,56): warning C4244:  аргумент: преобразование "float" в "int", возможна потеря данных
+E:\VS\AES\AES\AES.cpp(667,80): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+E:\VS\AES\AES\AES.cpp(671,80): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+E:\VS\AES\AES\AES.cpp(675,80): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+E:\VS\AES\AES\AES.cpp(679,80): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+E:\VS\AES\AES\AES.cpp(684,98): warning C4267:  аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода
+  1 of 331 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  AES.vcxproj -> E:\VS\AES\x64\Release\AES.exe
